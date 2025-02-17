@@ -12,7 +12,10 @@ The tools used were Microsoft Word (Office 2021), ChatGPT-4o, and the Oxford Adv
 Additionally, some information was sourced from the following websites:
 
 https://www.techtarget.com/searchdatamanagement/definition/database
+
 https://pt.wikipedia.org/wiki/SQL
+
 https://pt.wikipedia.org/wiki/Sistema_de_gerenciamento_de_banco_de_dados
+
 https://pt.wikipedia.org/wiki/ODBC
 
